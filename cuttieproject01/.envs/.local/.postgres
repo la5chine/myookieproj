@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=cuttieproject01
+POSTGRES_USER=KrQMGZOKCjIfshRXlydLeJHnYikLvLib
+POSTGRES_PASSWORD=wHmVTOQKYTj4N360uqxVVDUu0EQYs5ZVQTLxeRVNFzbpLNwz2Ntj1EyPqZwYG3c8
